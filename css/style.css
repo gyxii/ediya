@@ -1,8 +1,12 @@
-#wrap {
-    max-width: 1250px;
-    margin: 0 auto;
+
+body {
+    margin: 0;
+    padding: 0;
+   text-align: center;
 }
+
 #wrap img {
-    width: 100%;
+width: 1000px;
+ 
 
 }
