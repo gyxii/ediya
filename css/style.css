@@ -5,8 +5,10 @@ body {
    text-align: center;
 }
 
-#wrap img {
-width: 800px
- 
-
+.contaniner {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+.contaniner img {
+    width: 100%;
 }
